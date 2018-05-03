@@ -1,6 +1,6 @@
 ﻿
 /* *******************************************************
- * Name: Courtney Grover                                 *
+ * Name: Courtney Grover 	                             *
  * Description: Watches a file or directory for changes  *
  *              and logs the changes in a log file while *
  *              also printing to the screen.             *
